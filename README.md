@@ -39,7 +39,7 @@
 [![Portfolio](https://img.shields.io/badge/%E2%97%89_about-1E1E2E?style=for-the-badge&logo=archlinux&logoColor=CBA6F7&labelColor=11111B)](#~/about.md)
 [![Projects](https://img.shields.io/badge/%E2%97%89_projects-1E1E2E?style=for-the-badge&logo=github&logoColor=A6E3A1&labelColor=11111B)](#-pinned-workspaces)
 [![Stack](https://img.shields.io/badge/%E2%97%89_stack-1E1E2E?style=for-the-badge&logo=hyprland&logoColor=FAB387&labelColor=11111B)](#-tech-stack)
-[![Contact](https://img.shields.io/badge/%E2%97%89_contact-1E1E2E?style=for-the-badge&logo=protonmail&logoColor=89B4FA&labelColor=11111B)](#-connect)
+[![Connect](https://img.shields.io/badge/%E2%97%89_contact-1E1E2E?style=for-the-badge&logo=protonmail&logoColor=89B4FA&labelColor=11111B)](#-connect)
 
 </div>
 
@@ -61,27 +61,24 @@ Shivam Raj — CSIT undergrad
 
 <div align="center">
 
-**Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-1E1E2E?style=flat-square&logo=javascript&logoColor=F9E2AF)
 ![C++](https://img.shields.io/badge/C++-1E1E2E?style=flat-square&logo=cplusplus&logoColor=89B4FA)
 ![Python](https://img.shields.io/badge/Python-1E1E2E?style=flat-square&logo=python&logoColor=F9E2AF)
 ![Java](https://img.shields.io/badge/Java-1E1E2E?style=flat-square&logo=openjdk&logoColor=FAB387)
 
 
-**Stack**
 ![React](https://img.shields.io/badge/React-1E1E2E?style=flat-square&logo=react&logoColor=89DCEB)
 ![Node.js](https://img.shields.io/badge/Node.js-1E1E2E?style=flat-square&logo=nodedotjs&logoColor=A6E3A1)
 ![Express](https://img.shields.io/badge/Express-1E1E2E?style=flat-square&logo=express&logoColor=CDD6F4)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1E1E2E?style=flat-square&logo=mongodb&logoColor=A6E3A1)
 
-**Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/aws-1E1E2E?style=flat-square&logo=amazonaws&logoColor=FFFFFF)
 ![GCP](https://img.shields.io/badge/Google_Cloud-1E1E2E?style=flat-square&logo=googlecloud&logoColor=89B4FA)
 ![Docker](https://img.shields.io/badge/Docker-1E1E2E?style=flat-square&logo=docker&logoColor=89B4FA)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1E1E2E?style=flat-square&logo=kubernetes&logoColor=89DCEB)
 ![Git](https://img.shields.io/badge/Git-1E1E2E?style=flat-square&logo=git&logoColor=FAB387)
 
-**Desktop**
+
 ![Arch](https://img.shields.io/badge/Arch-1E1E2E?style=flat-square&logo=archlinux&logoColor=89B4FA)
 ![Hyprland](https://img.shields.io/badge/Hyprland-1E1E2E?style=flat-square&logo=hyprland&logoColor=CBA6F7)
 ![Neovim](https://img.shields.io/badge/Neovim-1E1E2E?style=flat-square&logo=neovim&logoColor=A6E3A1)
@@ -121,6 +118,7 @@ workspace 2 ──
 
 [![GitHub](https://img.shields.io/badge/git--oberoi-1E1E2E?style=for-the-badge&logo=github&logoColor=CDD6F4&labelColor=11111B)](https://github.com/git-oberoi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=89B4FA&labelColor=11111B)](https://www.linkedin.com/in/shivamraj-linked/)
+[![Discord](https://img.shields.io/badge/Discord-1E1E2E?style=for-the-badge&logo=discord&logoColor=F38BA8&labelColor=11111B)](https://discord.gg/VVhKHjVdSa)
 [![Mail](https://img.shields.io/badge/Mail-1E1E2E?style=for-the-badge&logo=gmail&logoColor=F38BA8&labelColor=11111B)](imbot.py@gmail.com)
 
 <br>
