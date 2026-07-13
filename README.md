@@ -1,36 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=CBA6F7&center=true&vCenter=true&width=560&lines=oberoi%40arch+~+%25;Hyprland;Booting+Shivam+Raj...;DevOps+%2B+Full-Stack+%2B+CPP" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=CBA6F7&center=true&vCenter=true&width=560&lines=oberoi%40arch+~+%25;Hyprland;Booting+Shivam+Raj...;" alt="typing-svg" />
 
 </div>
 
 <br>
-
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-
-                  -`                     oberoi@OBEROI-PC
-                 .o+`                    ----------------
-                `ooo/                    OS: CachyOS x86_64
-               `+oooo:                   Host: ROG Strix 
-              `+oooooo:                  Kernel: Linux -cachyos
-              -+oooooo+:                 Uptime: Until Next Update
-            `/:-:++oooo+:                Shell: fish
-           `/++++/+++++++:               WM: Hyprland (Wayland)
-          `/++++++++++++++:              Config: illogical-impulse 
-         `/+++ooooooooooooo/`            Terminal: kitty
-        ./ooosssso++osssssso+`           Editor: nvim / VS Code 
-       .oossssso-````/ossssss+`          Focus: DevOps · Full-Stack · C++ 
-      -osssssso.      :ssssssso.         
-     :osssssss/        osssso+++.       
-    /ossssssss/        +ssssooo/-        
-  `/ossssso+/:-        -:/+osssso+-      
- `+sso+:-`                 `.-/+oso:     
-`++:.                           `-/+/   
-.`                                 `/   
-                                         
-└──────────────────────────────────────────────────────────────────────────────────────────────┘                                         
-```
 
 <div align="center">
 <sub>~ waybar ~</sub>
@@ -39,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/%E2%97%89_about-1E1E2E?style=for-the-badge&logo=archlinux&logoColor=CBA6F7&labelColor=11111B)](#~/about.md)
 [![Projects](https://img.shields.io/badge/%E2%97%89_projects-1E1E2E?style=for-the-badge&logo=github&logoColor=A6E3A1&labelColor=11111B)](#-pinned-workspaces)
 [![Stack](https://img.shields.io/badge/%E2%97%89_stack-1E1E2E?style=for-the-badge&logo=hyprland&logoColor=FAB387&labelColor=11111B)](#-tech-stack)
-[![Connect](https://img.shields.io/badge/%E2%97%89_contact-1E1E2E?style=for-the-badge&logo=protonmail&logoColor=89B4FA&labelColor=11111B)](#-connect)
+[![Connect](https://img.shields.io/badge/%E2%97%89_connect-1E1E2E?style=for-the-badge&logo=protonmail&logoColor=89B4FA&labelColor=11111B)](#-connect)
 
 </div>
 
@@ -141,4 +115,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+
+                  -`                     oberoi@OBEROI-PC
+                 .o+`                    ----------------
+                `ooo/                    OS: CachyOS x86_64
+               `+oooo:                   Host: ROG Strix 
+              `+oooooo:                  Kernel: Linux -cachyos
+              -+oooooo+:                 Uptime: Until Next Update
+            `/:-:++oooo+:                Shell: fish
+           `/++++/+++++++:               WM: Hyprland (Wayland)
+          `/++++++++++++++:              Config: illogical-impulse 
+         `/+++ooooooooooooo/`            Terminal: kitty
+        ./ooosssso++osssssso+`           Editor: nvim / VS Code 
+       .oossssso-````/ossssss+`          Focus: DevOps · Full-Stack · C++ 
+      -osssssso.      :ssssssso.         
+     :osssssss/        osssso+++.       
+    /ossssssss/        +ssssooo/-        
+  `/ossssso+/:-        -:/+osssso+-      
+ `+sso+:-`                 `.-/+oso:     
+`++:.                           `-/+/   
+.`                                 `/   
+                                         
+└──────────────────────────────────────────────────────────────────────────────────────────────┘ 
 -->
